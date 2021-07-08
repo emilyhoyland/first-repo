@@ -3,7 +3,7 @@ My first repo? 0_o
 
 
 
-
+This is me trying to prepare between classes
 
 
 
@@ -18,8 +18,8 @@ We can make links like [this](https://github.com/prof-rossetti/intro-to-python).
 
 And lists too:
 
-  + Item 1
-  + Item 2
-  + Item 3
+  + Fellowship of the Ring
+  + Two Towers
+  + Return of the King
 
 For more information about Markdown syntax, see the [Markdown Guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
